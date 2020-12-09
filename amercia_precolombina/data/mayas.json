@@ -1,0 +1,102 @@
+{
+    "rutasMayas"  : [
+        {
+            "ruta"  : "mayasUbicacion",
+            "icon"  : "map",
+            "texto" : "Ubicación"
+        },
+        {
+            "ruta"  : "mayasEstructura",
+            "icon"  : "group",
+            "texto" : "Sociedad"
+        },
+        {
+            "ruta"  : "mayasMitologia",
+            "icon"  : "self improvement",
+            "texto" : "Mitología"
+        },
+        {
+            "ruta"  : "mayasReto",
+            "icon"  : "sports_esports",
+            "texto" : "Actividad"
+        }
+    ],
+    "ubicacion" : [
+        {
+            "titulo"    : "Ubicación del Imperio",
+            "texto"     : " Aunque ciertamente no constituyeron un Estado ni un poder político centralizado, los mayas se las ingeniaron para controlar un extenso territorio de casi 28.000 km2 que incluía partes del actual territorio de México, Guatemala, Honduras y Belice.\n\nLos mayas se distribuyeron sobre un amplio territorio de enorme riqueza económica. Cruzados por numerosos cursos de agua, los valles en los que se asentaron les permitieron desarrollar una eficaz agricultura, base de su subsistencia. También tomaron recursos que les daban las costas e inclusive las extensas mesetas centrales y del oeste. Allí surgieron numerosas ciudades-Estado, como Tikal, Chichen-Itzá, Copán y Palenque, todas ellas centros de un desarrollo excepcional.",
+            "imagen"    : "https://culturamaya.info/wp-content/uploads/2018/04/maya-mapa-actual.png"
+        },
+        {
+            "titulo"    : "K'inich Janaab' Pakal",
+            "texto"     : "K'inich Janaab' Pakal o Pakal “el Grande” (23 de marzo de 603 - 31 de agosto de 683) fue un ahau o gobernante del ajawlel o señorío maya de B'aakal, cuya sede era Lakam Ha', ahora conocida como la zona arqueológica de Palenque, ubicada en el norte del estado mexicano de Chiapas.\n\nFue entronizado por su padre a la edad de doce años, gobernó desde el año 615 hasta el 683, convirtiéndose así en uno de los gobernantes más longevos de la historia. Ascendió al poder después de que Palenque hubiera sufrido un período de adversidad. Durante las primeras décadas de su gobierno se vivió una época de paz y productividad. En el 659 inició una campaña militar que consolidó a Palenque como una de las ciudades más importantes de la región. El gobierno de Pakal se caracterizó por haber impulsado el crecimiento de la obra arquitectónica de Palenque y por haber iniciado los registros jeroglíficos de su historia dinástica. ",
+            "imagen"    : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PacalII.svg/211px-PacalII.svg.png"
+        },
+        {
+            "titulo"    : "Tikal",
+            "texto"     : "Tikal no solo fue una de las ciu­dades mayas más grandes y an­tiguas, sino también un ejem­plo muy representativo del auge y la enigmática caída de esta civilización durante su período clásico, entre los siglos III y X. Procedentes del altipla­no de Guatemala, los antepasados de los mayas emigraron al este (Chiapas y Tabasco, en México) y oeste (tierras bajas de Guatemala, Honduras y Belice) en el II milenio a. C. A su paso fundaron aldeas, algunas de las cuales se transformarían siglos más tarde en las primeras ciudades de la cultura maya. Una de ellas fue Tikal, situada en el corazón del bosque tropical del Petén, al noreste de Guate­mala, y habitada desde 800 a. C.",
+            "imagen"    : "https://www.lavanguardia.com/files/image_948_465/uploads/2019/05/20/5f15f20f9d763.jpeg"
+        },
+        {
+            "titulo"    : "Chichén Itzá",
+            "texto"     : " fue una ciudad Maya de gran importancia de la era precolombina entre los años  525 y 1100 d.C. Su nombre en Maya significa “boca del pozo de los Itzáes“. Chichén Itzá es un ejemplo de la fusión de la cultura mexica, maya y tolteca. La presencia de esculturas y relieves de piedra dan a conocer el culto al dios Quetzalcoatl, a quién los mayas adoraban con el nombre de Kukulkán.",
+            "imagen"    : "https://www.bestmex.com/es/mexico-seguros-blog/wp-content/uploads/2018/05/yucatan-chichenItza-pyramid-3308788_640.jpg"
+        },
+        {
+            "titulo"    : "Copán",
+            "texto"     : "En la ciudad de de Copán, los antiguos mayas replicaron la naturaleza a través del arte. Construyeron pirámides como símbolos de montañas, plazas como lagos y portales como cuevas. Los artistas de Copán esculpieron las imágenes de la dinastía reinante en columnas de piedra para representar un “bosque de reyes”. La ocupación de la antigua ciudad duró más de dos mil años, con los logros más grandes llevándose a cabo entre el 400 y 800 d.C.",
+            "imagen"    : "https://maya.nmai.si.edu/sites/default/files/null/copan_s9.jpg"
+        }
+    ],
+
+    "estructura" : [
+        {
+            "titulo"    : "Organizacion Social",
+            "texto"     : "Durante el período del Postclásico, los mayas estuvieron divididos en múltiples centros urbanos que, dirigidos cada uno por una familia noble, pasaban gran parte del tiempo luchando entre sí. No obstante, la caída de Chichén Itzá hacia el año de 1200, marcó el inicio de la hegemonía ostentada hasta 1450 por la ciudad de Mayapán, la cual logró dominar a una gran cantidad de ciudades mediante una compleja red de alianzas matrimoniales. Para asegurar la lealtad de las noblezas regionales, los miembros más importantes de sus familias eran llevados a vivir a Mayapán. ",
+            "imagen"    : "https://www.cultura10.org/wp-content/uploads/2018/03/Organizaci%C3%B3n-pol%C3%ADtica-de-los-mayas.png"
+        },
+        {
+            "titulo"    : "Halach Uinic",
+            "texto"     : "A la cabeza de Mayapán se ubicaba el llamado Halach Uinic, especie de 'rey, emperador, monarca, príncipe o gran señor', según los propios testimonios mayas. Sus atribuciones incluían la formulación de la política exterior e interior, con la ayuda de un consejo compuesto por los principales jefes de los pueblos, sacerdotes y consejeros especiales. También era la máxima autoridad religiosa. Debajo del Halach Uinic había una serie de funcionarios que administraban una severa justicia, cobraban tributos a los campesinos y controlaban las actividades de la población. Con la caída de Mayapán, toda esta estructura de dominación se derrumbó, quedando los mayas nuevamente escindidos en diversas agrupaciones políticas. ",
+            "imagen"    : "https://slideplayer.es/slide/5647412/6/images/4/La+m%C3%A1xima+figura+Halach+Uinic.jpg"
+        },
+        {
+            "titulo"    : "Clases Sociales",
+            "texto"     : "La sociedad maya del Postclásico estaba organizada jerárquicamente y se distinguían cuatro clases sociales: la nobleza, el sacerdocio, los plebeyos y los esclavos. En cuanto a la nobleza, de sus familias provenían los jefes locales, los miembros del consejo y los altos funcionarios. A diferencia del período Clásico maya, los jefes militares desempeñaron un papel clave a raíz de la importancia que jugó la guerra en estos siglos. En cambio los sacerdotes, que habían ejercido el poder político durante el período Clásico, ahora estaban abocados a la mantención de los templos, la vida religiosa y, por sobre todo, a las ciencias. ",
+            "imagen"    : "https://i.pinimg.com/564x/7e/9b/0e/7e9b0eedda3e2330d1183a02ac817782.jpg"
+        },
+        {
+            "titulo"    : "El pueblo",
+            "texto"     : "El pueblo se componía mayoritariamente de campesinos dedicados al cultivo del maíz, junto a un alto número de tejedores y alfareros. Con su trabajo mantenían a las clases sociales superiores, además de erigir todos los centros ceremoniales y las calzadas de piedra que unían a las ciudades principales. La gente del pueblo vivía en las afueras de los centros urbanos y su posición dentro de la escala social se medía por la distancia que había entre la casa y la plaza central. Los esclavos constituían el último eslabón en esta sociedad y adquirían su condición por nacimiento, robo, haber caído prisioneros en la guerra, ser huérfanos o haber sido comprados. ",
+            "imagen"    : "https://www.mexicodesconocido.com.mx/wp-content/uploads/2019/03/tejidos-maya-4.jpg"
+        }
+    ],
+
+    "mitologia" : [
+        {
+            "titulo": "Mitologia",
+            "texto":  "Si bien no existe tanto material como se quisiera para obtener mayores datos respecto a las creencias de los mayas, tres grandes textos se han constituido como las mejores fuentes para conocer mejor esta mitología:\n\nPopol Vuh. Este preciado libro relata todo lo relacionado con la creación de la tierra y el hombre al igual que unas cuantas historias sobre dioses.\n\nChilam Balam. Se trata de un conjunto de libros redactados por los descendientes inmediatos de los mayas donde se cuenta de primera mano sus más emblemáticas creencias y tradiciones.\n\nLas Crónicas de Chacxulubchen. Es un texto que aunque no goza de tanta popularidad como los anteriores proporciona detalles fundamentales para entender la mitología maya.\n\nTal y como sucede con otras mitologías, los mayas usaban este tipo de relatos para dar explicación a los fenómenos naturales, la diferencia puede ubicarse más bien en sus complejas ceremonias para rendir tributo y en la idea de considerar que el universo cumplía una regeneración cíclica que incluía cataclismos y catástrofes, este es el origen de las denominadas profecías de los mayas las cuales obtenían los sacerdotes luego de interpretar las señales de sus dioses.",
+            "imagen": "https://www.mitologia.info/wp-content/uploads/2017/05/mitologia-maya.jpg"
+        },
+        {
+            "titulo": "Kukulkán",
+            "texto":  "Es el dios de las tempestades y quien creó la vida a partir del agua, su nombre significa serpiente emplumada lo que lo relaciona inmediatamente con la mitología azteca.",
+            "imagen": "https://sobreleyendas.com/wp-content/uploads/Kukulkan.jpg"
+        },
+        {
+            "titulo": "Hunab Ku",
+            "texto":  "Equivale al dios de la cultura maya más importante pues es la figura principal en cuanto a creencias ya que se dice que es el único verdadero y vivo. Se dice que de él nacen todas las cosas puesto que alberga todas las dualidades, asimismo afirman que es el padre de todos los dioses y se le describe como ntidad incorpórea.",
+            "imagen": "https://images.vexels.com/media/users/3/174373/raw/3e37902ee458eec9272b157056dd94f5-conjunto-de-vectores-de-dios-maya-hunab-ku.jpg"
+        },
+        {
+            "titulo": "Ixchel",
+            "texto":  "Diosa de la luna, relacionada enormemente con la fertilidad y el agua. Su culto era el preferido de las sacerdotisas y era esta deidad a quien se le pedía ayuda en los nacimientos y enfermedades relacionadas con los órganos femeninos.",
+            "imagen": "https://www.martesdecuento.com/wp-content/uploads/7-274x383.png"
+        },
+        {
+            "titulo": "El triunfo del bien sobre el mal en la leyenda de los Héroes Gemelos",
+            "texto":  "Al regresar al Xibalbá, para tomar venganza, urdieron una trampa. Tras interpretar diversos números asombrosos, Xbalanqué decapitó a Hunahpú y volvió a colocarle la cabeza. Los dioses, encantados con el espectáculo, les rogaron que los decapitaran y les devolvieran la vida también a ellos. Los Héroes Gemelos simularon obedecer y procedieron a decapitar a los dioses. Al final lograron consumar su venganza: se negaron a recomponer sus cuerpos y los derrotaron para siempre. Así fue cómo triunfó el bien sobre el mal, y el mundo estuvo preparado para la creación de los seres humanos. Xbalanqué y Hunahpú emergieron del Xibalbá como el sol y la luna -dones para los mayas- y se elevaron al cielo. Cada día reinterpretan su viaje al mundo del Más Allá y su jubiloso retorno.",
+            "imagen": "https://www.almendron.com/blog/wp-content/images/2005/04/el-mito-maya-de-la-creacion-1.jpg"
+        }
+    ]
+}

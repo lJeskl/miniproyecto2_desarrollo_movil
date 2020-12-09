@@ -1,0 +1,112 @@
+{
+    "rutasAztecas"  : [
+        {
+            "ruta"  : "aztecasUbicacion",
+            "icon"  : "map",
+            "texto" : "Ubicación del imperio"
+        },
+        {
+            "ruta"  : "aztecasEstructura",
+            "icon"  : "group",
+            "texto" : "Estructura Social"
+        },
+        {
+            "ruta"  : "aztecasMitologia",
+            "icon"  : "self improvement",
+            "texto" : "Mitología"
+        },
+        {
+            "ruta"  : "aztecasReto",
+            "icon"  : "sports_esports",
+            "texto" : "Actividad"
+        }
+    ],
+
+    "ubicacion" : [
+        {
+            "titulo"    : "Ubicación del Imperio",
+            "texto"     : "Los mexicas provenían de una tribu nómada mesoamericana que se asentó hacia el año 1325 en México-Tenochtitlán, en el centro del actual territorio de México, en donde actualmente se halla la Ciudad de México, capital del país.\n\nDesde allí se expandieron hacia afuera, se adueñaron de los actuales estados de México, Veracruz, Puebla, Oaxaca, Guerrero, Chiapas (la costa), Hidalgo y parte del territorio actual de Guatemala. En dicha región contaban con diversos ecosistemas, distintas regiones climáticas y por lo tanto distintos recursos naturales que aprovechar.\n\nAsí, a inicios del siglo XVI ya los aztecas, gobernados por Moctezuma II, ejercían el control imperial de la región y habían convertido el náhuatl en lingua franca en prácticamente toda Mesoamérica.\n\n",
+            "imagen"    : "https://concepto.de/wp-content/uploads/2019/09/cultura-azteca-imperio-mapa-territorio-ubicacion-e1567637608532.jpg"
+        },
+        {
+            "titulo"    : "Cuauhtémoc",
+            "texto"     : "Hijo y nieto de reyes, Cuauhtémoc tuvo una corta y azarosa existencia. Nació en Tenochtitlán en los últimos años del siglo XV, en un día que coincidió con un eclipse solar, preludio de un sino fatal que los sacerdotes confirmaron al darle el nombre de Cuauhtémoc, 'águila que desciende'. El joven príncipe asistió al calmecac, el centro de instrucción de todos los nobles, y al cumplir los 15 años completó su educación en el telpochcali, la escuela obligatoria en la que todos los varones aztecas recibían la formación militar. Pronto destacó como combatiente, y tras alcanzar el grado de tlacatécatl lideró los ejércitos de Moctezuma en diversas campañas, lo que le valió el mando militar de Tlatelolco, la ciudad gemela de Tenochtitlán.",
+            "imagen"    : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cuauht%C3%A9moc.png/245px-Cuauht%C3%A9moc.png"
+        },
+        {
+            "titulo"    : "Tenochtitlan",
+            "texto"     : "Fue la capital del Imperio Azteca y se fundó en una de las islas del lago de Texcoco el 12 de diciembre de 1325. Debido a la ubicación estratégica, la ciudad estaba en un lugar privilegiado para defenderse de ataques, además los lagos cercanos proveían grandes cosechas que permitieron el crecimiento acelerado de la población.",
+            "imagen"    : "https://www.lifeder.com/wp-content/uploads/2017/03/maqueta-de-Tenochtitlan-696x369.jpg"
+        },
+        {
+            "titulo"    : "Texcoco",
+            "texto"     : "Fue fundada en 1337 por pueblos de origen chichimeca, pero cayó ante el Imperio tepaneca, quien asesinó a su tlatoani. Cambió el nombre de la ciudad a Azcapotzalco y dominó al pueblo cruelmente, con tributos que apenas les permitían sobrevivir con el objetivo de evitar una rebelión.\n\n10 años después, el hijo del tlatoani asesinado, Nezahualcóyotl, se alió a los mexicas de Tenochtitlán (aztecas), derrotó a los Tepanecas y vengó la muerte de su padre.\n\nA partir de estos acontecimientos la ciudad fue llamada Texcoco, una de las 3 cabeceras del señorío azteca, que recibía 2/5 partes de los tributos de los pueblos conquistados.",
+            "imagen"    : "https://www.lifeder.com/wp-content/uploads/2019/05/Texcoco-min-696x928.jpg"
+        },
+        {
+            "titulo"    : "Tlacopan",
+            "texto"     : "Significa “ciudad sobre las varas”, actualmente conocido como Tacuba en la Ciudad de México.\n\nEste pueblo también estaba dominado por los tepanecas, quienes ejercían un gobierno sanguinario y opresivo, por lo que el pueblo se alió con los aztecas para liberarse. Esto lo convirtió en parte de la trinidad del señorío azteca.\n\nA pesar de su alianza, el pueblo de Tlacopan solo recibía 1/5 de los tributos de los pueblos conquistados. Esto derivaba en que, según los estudios de la historia, estuvieran descontentos con el imperio, pues a pesar de ser una alianza, los mexicas predominaban en su poder y tamaño de la población.",
+            "imagen"    : "https://www.lifeder.com/wp-content/uploads/2017/03/tacuba-583x420.jpg"
+        }
+    ],
+
+    "estructura"    : [
+        {   "titulo"    : "Organizacion social",        
+            "texto"     : "Los pueblos reducidos al poderío azteca debían entregar a las autoridades del imperio pesados tributos en especie. Los tributos se fijaban de acuerdo a los recursos disponibles en cada región; por ejemplo, los totonacas de Cempoala aportaban con lanzas, escudos de plumas y caracoles marinos y los xochimilcas con productos agrícolas como maíz, porotos y ají.\n\nLas cargas tributarias impuestas por la Triple Alianza, le valieron a los aztecas el odio generalizado de los pueblos sometidos del Valle de México.\n\nEstratificación Social Azteca\n\nPara la administración del vasto imperio, los aztecas implementaron un rígido sistema basado en el poder personal de la nobleza. A la cabeza de la estructura de mando estaba el soberano o huey tlatoani (gran orador y jefe de los hombres) con amplios poderes militares, civiles y religiosos. El huey tlatoani presidía el consejo supremo o tlatocán, donde participaban los jefes o tlatoani de las ciudades más importantes, las máximas autoridades militares y delegados de algunos calpullis. ",
+            "imagen"    : "http://www7.uc.cl/sw_educ/historia/conquista/parte1/medios/aztecas/ef07.jpg"
+        },
+        {   "titulo"    : "El consejo",
+            "texto"     : "El consejo tomaba las decisiones políticas, militares y administrativas y designaba al nuevo huey tlatoani cuando se producía la muerte del soberano. En el territorio que se encontraba bajo jurisdicción azteca, especialmente en los focos rebeldes, había gobernadores militares apoyados por pequeñas guarniciones que mantenían el orden y aseguraban la recaudación de los tributos. ",
+            "imagen"    : "http://www7.uc.cl/sw_educ/historia/conquista/parte1/medios/aztecas/ef08.jpg"
+        },
+        {   "titulo"    : "La nobleza",
+            "texto"     : "La expansión del imperio azteca afectó en gran medida a la organización social. Mientras la nobleza, formada por los tlatoani de las principales ciudades, los guerreros y sacerdotes, fue acumulando cada vez más tierras y riquezas, la gente común o macehualtin siguió desempeñándose fundamentalmente como mano de obra en la agricultura y la artesanía y debía pagar tributos al imperio. Dentro de la clase dirigente comenzaron a jugar un papel muy importante los tecuhtli o señores, quienes gozaban de un gran prestigio logrado a raíz de acciones sobresalientes. Estos ejercieron funciones militares, judiciales y administrativas y recibían tierras y servidores como recompensa. Debían estar siempre disponibles para cuando el soberano los necesitara. ",
+            "imagen"    : "http://www7.uc.cl/sw_educ/historia/conquista/parte1/medios/aztecas/ef09.jpg"
+        },
+        {   "titulo"    : "Macehualtin",
+            "texto"     : "Los denominados macehualtin conformaban a la mayor parte del pueblo azteca. Aparte de los labradores, encontramos en este grupo a artesanos y servidores públicos. Si bien los macehualtin tenían la posibilidad de mejorar su situación social, destacándose en la guerra o el comercio, la movilidad dentro del imperio fue muy reducida. ",
+            "imagen"    : "http://www7.uc.cl/sw_educ/historia/conquista/parte1/medios/aztecas/ef10.jpg"
+        },
+        {   "titulo"    : "Calpulli",
+            "texto"     : "\nLa unidad social básica en el mundo azteca era el calpulli, conformado por familias de macehualtin que tenían antepasados comunes y compartían un territorio subdividido en parcelas comunales. Al frente de cada calpulli estaba el calpullec, electo de por vida por los habitantes y en conformidad con el soberano azteca. Su principal tarea era el registro de todas las tierras de la comunidad y el control de las labores de cultivo.",
+            "imagen"    : "http://www7.uc.cl/sw_educ/historia/conquista/parte1/medios/aztecas/ef11.jpg"
+        },
+        {   "titulo"    : "Tlacoti",
+            "texto"     : "\nLos esclavos llamados tlacotin ocuparon la jerarquía inferior de la sociedad azteca. La mayoría eran esclavos debio a las guerras, otros por cometer delitos graves y una pequeña parte debido a las deudas que no pudieron cancelar cayeron en esa condición de servidumbre.",
+            "imagen"    : "http://www7.uc.cl/sw_educ/historia/conquista/parte1/medios/aztecas/ef12.jpg"
+        }
+    ],
+    
+    "mitologia" : [
+        {
+            "titulo"    : "Mitologia",
+            "texto"     : "En este sistema de creencias, la naturaleza con cada uno de sus elementos contaba con un papel fundamental, paradójicamente lo mismo ocurría con el tema de la muerte, del que se hablaba bastante posiblemente por los sacrificios de sangre humana para los dioses y todo esto se evidencia muy concretamente en los diferentes mitos aztecas. Este último punto era determinante para ellos ya que de acuerdo a sus normas esto era necesario para mantener el orden cósmico y natural que solo se alcanzaba teniendo a sus divinidades satisfechas.",
+            "imagen"    : "https://www.mitologia.info/wp-content/uploads/2017/05/mitologia-azteca.jpeg"
+        },
+        {
+            "titulo"    : "Ometecuhtli",
+            "texto"     : "es un ser supremo, una divinidad dual que equivale a hombre y mujer, luz y oscuridad, es decir a la coincidencia de los opuestos.",
+            "imagen"    : "https://i.pinimg.com/originals/28/76/c2/2876c2aa41b50bfa5c7c8526ae3ce94b.jpg"
+        },
+        {
+            "titulo"    : "Tezcatlipoca",
+            "texto"     : " señor del fuego y de la muerte, dios del cielo nocturno, se le relaciona con el mal y la destrucción.",
+            "imagen"    : "https://cdn1.matadornetwork.com/blogs/2/2019/12/shutterstock_1211759326-560x420.jpg"
+        },
+        {
+            "titulo"    : "Tláloc",
+            "texto"     : " dios del rayo, del trueno y de la lluvia, es un dios muy generoso al que se acude para pedir por la fertilización de los campos.",
+            "imagen"    : "https://www.mitologia.info/wp-content/uploads/2017/05/tlaloc-dios-azteca-de-la-lluvia.jpg"
+        },
+        {
+            "titulo"    : "Quetzalcóatl",
+            "texto"     : "Era un poco el dios del todo: la vida, fertilidad, sabiduría, del día y la noche, los vientos. Es seguramente uno de las deidades más relevantes de los Aztecas por todo lo que representaba. Es una especie de serpiente con plumas y a la vez con forma humana.",
+            "imagen"    : "https://desinformemonos.org/wp-content/uploads/2019/04/Cort%C3%A9s-y-Quetzalc%C3%B3atl.jpg"
+        },
+        {
+            "titulo"    : "EL MITO AZTECA DE LA CREACIÓN",
+            "texto"     : "“Los aztecas tienen como dios principal a Tonacatecuhtli, quien tuvo por mujer a Tonacacihuatl (conocida también como Xochiquetzal). Ellos se criaron en el decimotercer cielo, de cuyo principio no se supo jamás. Engendraron a cuatro hijos. El mayor, Tezcatlipoca rojo, llamado así porque nació colorado. Al segundo hijo lo nombraron Tezcatlipoca negro, el peor de los tres porque fue el que más mandó y nació negro en medio de todos los seres y cosas.\n\nAl tercero llamaron Quetzalcoatl, conocido también como 'Noche y viento'. Mientras que al último y más pequeño lo llamaron Huitzilopochtli.\n\nDe los cuatros hijos de la primera pareja, Tezcatlipoca negro era omnipresente, conocía todos los pensamientos y los corazones; así es que lo llamaron Moyocoya, cuyo significado es el de todopoderoso. Su hermano menor, Huitzilopochtli, nació sin carne, con los huesos desnudos. Así se mantuvo durante los seiscientos años de quietud entre los dioses, etapa en la que nada hicieron.\n\nPasado el largo período, los cuatro hijos de Tonacatecuhtli se juntaron para ordenar lo que habrían de hacer y la ley que tendrían. Convinieron en nombrar a Quetzalcoatl y Huizilopochtli para que impartieran las órdenes. Entonces, por comisión y parecer de los otros dos, hicieron el fuego, después medio sol que, como no estaba entero, alumbraba poco y luego hicieron al hombre Oxomoco y a la mujer llamada Cipactónal. Les dieron la orden de que no holgaran, sino que trabajaran siempre. A él lo mandaron a labrar la tierra mientras ella hilaba y tejía.\n\nTerminada su tarea con los primeros hombres, los dioses hicieron los trescientos sesenta días del año que dividieron en dieciocho meses de veinte días cada uno. Luego crearon a los dioses que habitaron el infierno: al 'Señor del Inframundo' y a su esposa, la 'Señora del Inframundo'.Les llegó la hora de crear los cielos y comenzaron por el más alto, desde el decimotercero para abajo para continuar con la creación del agua. La tierra fue creada por los dioses Quetzalcoalt y Tezcatlipoca, quienes bajaron a tierra a la diosa del cielo. Ella tenía las articulaciones completamente cubiertas de ojos y bocas con las que mordía como una bestia salvaje. Antes de que la bajaran había agua (que nadie sabe quién creó) sobre la cual la diosa caminaba. Cuando vieron esto, los dioses se dijeron: 'Es necesario hacer la tierra', y diciendo esto se convirtieron los dos en grandes serpientes. Transformados, una de las serpientes agarró a la diosa de la mano derecha y el pie izquierdo y la otra de la mano izquierda y el pie derecho, tiraron tanto que la partieron por la mitad. Con la parte de atrás de los hombros hicieron la tierra, y la otra mitad la llevaron al cielo.\n\nLos otros dioses se enteraron y se enojaron mucho, entonces para recompensar a la diosa de la tierra por el daño que le habían hecho, los dioses descendieron todos del cielo y ordenaron que de ella salieran los frutos necesarios para la vida de los hombres: de sus cabellos hicieron los árboles y flores, de su piel las pequeñas hierbas y flores, de los ojos hicieron los pozos, las fuentes y las pequeñas cavernas, de la boca los ríos y grandes cavernas mientras que de los agujeros de la nariz y de los hombros, los valles de las montañas y las montañas mismas respectivamente”.",
+            "imagen"    : "https://www.americas-fr.com/civilisations/legendes/creation-monde-maya.jpg"
+        }
+    ]
+}

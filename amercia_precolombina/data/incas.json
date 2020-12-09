@@ -1,0 +1,104 @@
+{
+    "rutasIncas"  : [
+        {
+            "ruta"  : "incasUbicacion",
+            "icon"  : "map",
+            "texto" : "Ubicación"
+        },
+        {
+            "ruta"  : "incasEstructura",
+            "icon"  : "group",
+            "texto" : "Sociedad"
+        },
+        {
+            "ruta"  : "incasMitologia",
+            "icon"  : "self improvement",
+            "texto" : "Mitología"
+        },
+        {
+            "ruta"  : "incasReto",
+            "icon"  : "sports_esports",
+            "texto" : "Actividad"
+        }
+    ],
+    "ubicacion" : [
+        {
+            "titulo"    : "Ubicación del Imperio",
+            "texto"     : " El Imperio inca logró en su apogeo una expansión territorial de más de 2 millones de Km² a lo largo de 9000 kilómetros de la costa del Océano Pacífico en América del Sur. Extendiéndose sobre las actuales repúblicas de Colombia, Ecuador, Perú, Bolivia, Chile y Argentina; enorme franja territorial concebida por los Incas Pachacútec y Túpac Yupanqui, quienes durante su reinado engrandecieron las fronteras del Tahuantinsuyo de manera significativa. \n\nEl Imperio inca llegó a tener los siguientes límites: al norte, el río Ancasmayo (actual río Guáitara) ubicado en la ciudad de Pasto (Colombia); hacia el noreste, se ensanchaba hasta la selva amazónica de las actuales repúblicas de Perú y Bolivia; hacia el sureste, llegaron a cruzar la cordillera de los Andes, llegando más allá de lo que ahora son las ciudades de Salta y Tucumán en Argentina; hacia el sur, llegó a tocar el Desierto de Atacama; hacia el oeste, limitaba con el Océano Pacífico, pero existen indicios de comercio marítimo con pueblos de la polinesia, no confirmados científicamente.",
+            "imagen"    : "https://www.socialhizo.com/images/edad_antigua/incas/ubicacion-geografica/ubicacion-geografica-incas.jpg"
+        },
+        {
+            "titulo"    : "Pachacútec",
+            "texto"     : " Luego de su rendición de su padre, tomó el poder militar y consiguió alianzas estratégicas de etnias vecinas y logró expulsar a los chancas del Cusco. Su verdadero nombre fue Cusi Yupanqui. Tras conseguir la expulsión chanca de Cusco y expandir el territorio por todas direcciones, fundó el ‘Tahuantinsuyo’ y fue nombrado el inca Pachacutec. Expandió el territorio, asentó las leyes y cambios políticos importantes y mandó construir importantes ciudadelas como Machupicchu.\n\nPeríodo de Gobierno: 1430 – 1478\n\nDinastía: Hanan Qosqo\n\nÉpoca: Expansión inicial Inca",
+            "imagen"    : "https://historiadelperu.info/wp-content/uploads/2019/07/inca-pachacutec.jpg"
+        },
+        {
+            "titulo"    : "Machu Picchu",
+            "texto"     : "Machu Picchu (pronunciado /mɑtʃu ˈpiktʃu/ en quechua, «Monte viejo») es el nombre contemporáneo que se da a una llaqta —antiguo poblado incaico andino— construida antes del siglo XV, ubicada en la Cordillera Oriental del sur de Perú, en la cadena montañosa de Los Andes a 2430 metros sobre el nivel del mar. Está ubicada en la región Cusco, provincia de Urubamba, distrito de Machupicchu, sobre el Valle Sagrado de los Incas, a 80 kilómetros al noroeste de la ciudad de Cusco, ciudad del Perú y por donde fluye el río Urubamba, río que atraviesa la cordillera y origina un cañón con clima de montaña tropical. Según muchos estudiosos su nombre original habría sido Llaqtapata.",
+            "imagen"    : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Before_Machu_Picchu.jpg/250px-Before_Machu_Picchu.jpg"
+        },
+        {
+            "titulo"    : "Cuzco",
+            "texto"     : "Cuzco fue la capital y sede de Gobierno del Reino de los Incas y lo siguió siendo al iniciarse la época imperial, convirtiéndose en la ciudad más importante de los Andes y de América del Sur. Este centralismo le dio auge y se convirtió en el principal foco cultural y eje del culto religioso.",
+            "imagen"    : "https://www.artehistoria.com/sites/default/files/imagenobra/AMU10468.jpg"
+        }
+    ],
+    "estructura" : [
+        {
+            "titulo"    : "Organización social",
+            "texto"     : "La sociedad inca fue jerárquica y rígida: formando una pirámide donde el inca se encontraba a la cabeza, en un imperio donde existieron grandes diferencias entre las clases sociales. Estas diferencias eran respetadas por cada uno de los habitantes del imperio y el pueblo quienes constituían la base social.",
+            "imagen"    : "https://i.pinimg.com/originals/04/87/18/048718b6ba08d7992bbafdaf55794775.jpg"
+        },
+        {
+            "titulo"    : "Realeza",
+            "texto"     : "    La realeza inca – Conformado por la familia nuclear del inca: el auqui (hijo), la coya (esposa).\n\nLa panaca real – Parientes de primera línea del inca (primeras generaciones de cada panaca).",
+            "imagen"    : "https://1.bp.blogspot.com/_uheNlUAGBA8/SePZaRLS6cI/AAAAAAAAAvg/iVVuhpFuRGQ/s320/13abril2.png"
+        },
+        {
+            "titulo"    : "La nobleza",
+            "texto"     : "    Nobleza de sangre – Miembros restantes de las panacas (parientes).\n\nNobleza de privilegio – Personas que destacaron por sus servicios (sacerdotes, acllas, altos jefes).",
+            "imagen"    : "https://ojo.pe/resizer/0nno2OcDe49oC8btuecFgCSuTt0=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/EC3VNOO77ZGZFBPDION3UW4MS4.jpg"
+        },
+        {
+            "titulo"    : "El pueblo",
+            "texto"     : "    Ayllu Hatun Runa – El pueblo en general (campesino).\n\nMitimaes – Grupos trasladados para colonizar nuevas regiones enseñando a los pueblos nuevas costumbres.\n\nYanaconas – Servidores el inca y del imperio. Muchos de ellos eran prisioneros.",
+            "imagen"    : "https://i.pinimg.com/236x/4a/88/bc/4a88bc21ed466a03ab35d39c382cb8c2--civilization-empire.jpg"
+        }
+    ],
+    "mitologia" : [
+        {
+            "titulo"    : "Mitología",
+            "texto"     : "A pesar de adorar distintas fuerzas de la naturaleza, en los mitos incas se nota una marcada preferencia por el dios del sol y puesto que cada aspecto natural era asumido como uno divinidad esto indujo a que se asumiera que no existía un dios personal debido a que para esta comunidad dios era simplemente el universo.",
+            "imagen"    : "https://www.mitologia.info/wp-content/uploads/2017/11/11111111111111-1-360x180.jpg"
+        },
+        {
+            "titulo"    : "Viracocha",
+            "texto"     : "Es por excelencia el maestro del mundo, creador del cielo, las aguas y la tierra.",
+            "imagen"    : "https://hablemosdeculturas.com/wp-content/uploads/2019/01/viracocha-1-e1547481972390.jpg"
+        },
+
+        {
+            "titulo"    : "Inti",
+            "texto"     : "El popular rey del sol, también llamado taita Inti",
+            "imagen"    : "https://hablemosdemitologias.com/wp-content/uploads/2018/08/Diosinti1.png"
+        },
+
+        {
+            "titulo"    : "Mama Quilla",
+            "texto"     : "Es la madre del firmamento, la diosa de la luna y la protectora de las mujeres.",
+            "imagen"    : "https://www.ancientpages.com/wp-content/uploads/2020/06/mamaquilla11.jpg"
+        },
+
+        {
+            "titulo"    : "Pacha Mama",
+            "texto"     : "Diosa madre de la tierra, encargada de la fertilidad de los campos.",
+            "imagen"    : "https://i.pinimg.com/474x/e8/9e/97/e89e97fa37ce84f5fa1360b60d2328fa.jpg"
+        },
+
+        {
+            "titulo"    : "Origen del pueblo inca",
+            "texto"     : "La leyenda relata que tras un inmenso diluvio, aparecieron cuatro jóvenes, los hermanos Ayar junto a sus esposas: Ayar Manco y Mama Ocllo, Ayar Cachi y Mama Cora, Ayar Uchu y Mama Rahua, Ayar Auca y Mama Huaco. De acuerdo a la leyenda inca el grupo iba en busca de tierras fértiles.\n\nFue Ayar Cachi, el hermano con más fuerza y astucia, quien luego de tener una disputa con sus hermanos, fue ordenado a regresar a las cuevas de Pacarina. Sin embargo, a este le sellaron la salida con una roca y nunca más pudo salir. \n\nLos demás hermanos siguieron su camino hasta el monte Huanacauri y hallaron un ídolo de piedra al cual mostraron respeto; salvo por Ayar Uchu quien saltó a las espaldas de la estatua y quedó petrificado. Igual le ocurrió a Ayar Auca, que tras continuar el viaje también quedó convertido en piedra.\n\nAyar Manco, fue el único hermano que llegó a Cusco y encontró buenas tierras. Tras hundir su bastón de oro, fundó el Cusco, capital del Imperio inca.",
+            "imagen"    : "https://incarail.com/blog/wp-content/uploads/2020/03/Origin-Myths-of-the-Inca-Empire-Cusco.jpg"
+        }
+    ]
+}
